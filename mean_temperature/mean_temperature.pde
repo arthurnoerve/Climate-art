@@ -21,7 +21,7 @@ float yscale; //squeeze factor for temprature
 
 void setup() {
   
-  beginRecord(PDF, "temprature.pdf");     // Start writing to PDF
+  beginRecord(PDF, "temperature.pdf");     // Start writing to PDF
   
   
   /* FETCH DATA */
